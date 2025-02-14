@@ -50,7 +50,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 Inspired by Awesome Weather Apps.
 
-Made with ❤️ by Your Name.
+Made with ❤️ by Your SoniReddyMaram.
 Feel free to reach out if you have any questions or suggestions!
 
 Let me know if you need help with anything else! 😊
